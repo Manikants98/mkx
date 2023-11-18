@@ -30,7 +30,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <Image src="/programming.webp" width={800} height={800} />
+        <Image alt="" src="/programming.webp" width={800} height={800} />
       </div>
     </SnackbarProvider>
   );

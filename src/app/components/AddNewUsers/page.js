@@ -56,7 +56,7 @@ const AddNewUsers = ({ fetchFn }) => {
         <Divider /> */}
         <div className="flex">
           <div>
-            <Image width={500} height={500} src="/user.svg" />
+            <Image alt="" width={500} height={500} src="/user.svg" />
           </div>
           <form
             onSubmit={formik.handleSubmit}
